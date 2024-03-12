@@ -2,6 +2,7 @@
 # Mini tutorial: FastAPI with Docker & Cloud Run
 
     This guide sets up your FastAPI project for local development, Docker Compose deployment, and Cloud Run.
+    https://www.youtube.com/watch?v=CzAyaSolZjY
 
 ## Prerequisites
 
